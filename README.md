@@ -1,4 +1,4 @@
-## scDagBagM: Learning Directed Acyclic Graphs via Bootstrap Aggregation for ScRNA-seq Data
+## scDagBag: Learning Directed Acyclic Graphs via Bootstrap Aggregation for ScRNA-seq Data
 
 <img src="fig1.png" width="700" align="center">
 
@@ -29,7 +29,7 @@ contains the R package "dagbag". The function dagbag::score_shd() is used for ag
 ## Installation
 
 
-### Install scdagbagM
+### Install scdagbag
 ```
 require(doParallel)
 
