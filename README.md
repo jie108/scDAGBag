@@ -1,4 +1,4 @@
-## scDagBag: Learning Directed Acyclic Graphs via Bootstrap Aggregation for ScRNA-seq Data
+## scDagBagM: Learning Directed Acyclic Graphs via Bootstrap Aggregation for ScRNA-seq Data
 
 <img src="fig1.png" width="700" align="center">
 
