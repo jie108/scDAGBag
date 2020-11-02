@@ -2,6 +2,8 @@
 
 <img src="fig1.png" width="700" align="center">
 
+<img src="fig2.png" width="700" align="center">
+
 - [Overview](#Overview)
 - [Installation](#Installation)
 - [Usage](#Usage)
