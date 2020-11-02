@@ -82,7 +82,8 @@ score_shd(boot.adj, alpha, threshold, max.step, blacklist, whitelist, print)
 | blacklist	         | NULL    | a p by p 0-1 matrix: if the (i,j)th-entry is "1", then the edge i–>j will be excluded from the DAG during the search
 | whitelist          | NULL   |  a p by p 0-1 matrix: if the (i,j)th-entry is "1", then the edge i–>j will always be included in the DAG during the search
 | tol     |     1e-06     | a scalar: a number to indicate a threshold below which values will be treated as zero
-| numThread (only for hc_boot_parallel) |  |  an integer for running parallel computation of DAG learning from bootstrap resamples
+| numThread (only for hcSC_boot_parallel) |  |  an integer for running parallel computation of DAG learning from bootstrap resamples
+|bootDensityThre| proportion of zeros to be sampled in the bootstrap resamples
 | verbose		     | FALSE   | logical: whether print the step information
 
 
