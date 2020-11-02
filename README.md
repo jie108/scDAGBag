@@ -1,5 +1,4 @@
 ## scDagBag: Learning Directed Acyclic Graphs via Bootstrap Aggregation for ScRNA-seq Data
-# DAGBagM: Learning Directed Acyclic Graphs via Bootstrap Aggregation for Mixture of Continuous and Binary Variables
 
 <img src="fig1.png" width="700" align="center">
 
